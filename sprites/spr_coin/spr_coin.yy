@@ -10,9 +10,9 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
+  "bbox_left": 4,
   "bbox_right": 60,
-  "bbox_top": 0,
+  "bbox_top": 4,
   "bbox_bottom": 56,
   "HTile": false,
   "VTile": false,
@@ -29,7 +29,7 @@
   "gridY": 0,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ce256d4f-2b76-4fb8-b355-87642c28cab2",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b1fc289e-f8e2-4562-a0e8-56b2b4a52a9c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"72f27293-81ec-4dbd-a85a-27958fba05dd",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -47,7 +47,7 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"ba3f2675-b830-463d-8486-ce4099cd9bcd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ce256d4f-2b76-4fb8-b355-87642c28cab2","path":"sprites/spr_coin/spr_coin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"8a86748e-a605-4718-9ea8-6af23f8c28c3","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b1fc289e-f8e2-4562-a0e8-56b2b4a52a9c","path":"sprites/spr_coin/spr_coin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f216334e-6be5-414c-a526-67d214b8d09f","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"72f27293-81ec-4dbd-a85a-27958fba05dd","path":"sprites/spr_coin/spr_coin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
