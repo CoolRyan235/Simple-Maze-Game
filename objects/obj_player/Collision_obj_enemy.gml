@@ -4,4 +4,4 @@
 x = xstart;
 y = ystart;
 
-health -= 90
+lives -= 1
